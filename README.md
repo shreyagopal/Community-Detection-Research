@@ -1,2 +1,3 @@
-# Community-Detection-Research
-Research Work done on Community Detection 
+# Community Detection Research
+
+
